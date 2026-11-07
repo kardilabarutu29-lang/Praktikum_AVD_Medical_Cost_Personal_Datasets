@@ -115,6 +115,30 @@ Relasi utama:
 
 
 
+## 📅 **Informasi Tambahan**
+🧩 **Kebutuhan Sistem & Tech Stack**
+
+Sebelum menjalankan program **Sistem Informasi Manajemen Operasional Pelabuhan ArgoPort**, kami menggunakan beberapa perangkat dan perangkat lunak pendukung berikut:
+
+- **🧱 Java & Apache NetBeans**  
+  Menggunakan bahasa pemrograman Java yang dikembangkan di lingkungan Apache NetBeans untuk membangun aplikasi berbasis desktop yang interaktif dan terstruktur.
+
+- **💾 MySQL & Laragon / SQL**  
+  Menggunakan database MySQL (yang dikelola melalui lingkungan lokal Laragon) sebagai Sistem Manajemen Basis Data Relasional (RDBMS) untuk menyimpan dan mengelola data operasional pelabuhan secara aman.
+
+- **🔗 JDBC (Java Database Connectivity)**  
+  Pustaka penghubung yang memungkinkan aplikasi berbasis Java dapat berkomunikasi dan melakukan pertukaran data secara langsung dengan database `argoport_db`.
+
+- **📐 Data Modeler & Draw.io**  
+  Digunakan untuk perancangan struktur basis data, pemodelan entitas (*ERD*), serta pembuatan diagram alur kerja sistem ArgoPort.
+
+- **🐙 GitHub**  
+  Digunakan sebagai layanan *version control* untuk mengelola kode program, kolaborasi tim, dan dokumentasi repositori proyek.
+
+- **🎨 Canva**  
+  Digunakan untuk perancangan desain antarmuka, presentasi, serta aset visual pendukung laporan proyek.
+
+
 
 
 
