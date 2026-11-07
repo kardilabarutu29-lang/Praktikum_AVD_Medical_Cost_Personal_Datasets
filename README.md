@@ -77,6 +77,13 @@
 
 📎 [Klik di sini untuk melihat Flowchart Lengkap](https://app.diagrams.net/?src=about#G1l_0vRv375RYu1bvGWVfsu-FzTx-2HyA5#%7B%22pageId%22%3A%22YSO67Ypj2ylAbOuhdHeY%22%7D)
 
+
+
+**Operator** adalah pengguna atau petugas lapangan yang bertanggung jawab menjalankan proses operasional harian di pelabuhan. Dengan pengelolaan data transaksi slot gudang, serta mengelola data transaksi harian seperti mencatat atau melihat jadwal sandar kapal, memantau kesediaan slot gudang serta mengelola data kargo 
+
+
+
+
 ---
 
 ## 🗂️ **ERD**
